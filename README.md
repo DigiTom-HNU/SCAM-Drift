@@ -1,1 +1,2 @@
-SCAM-Drfit
+# SCAM-Drift
+SCAM-Drift for drift correction in List-FISH. Simulation results show that the correction precision is 65 nm for synthetic data with complete trajectories, and 216 nm for synthetic data with 50% trajectory loss. The test results from biological experiments show that SCAM-Drift achieved 23% improvement in cell recognition via corrected spots (quantified by ClusterMap). We believe that SCAM-Drift helps to promote the development and maturation of List-FISH for intact brain tissue sections.
